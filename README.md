@@ -94,7 +94,7 @@ For professional work, collaborations, or UI development:
 If you like my work and want to support future UI components, tutorials, and open source:
 
 ### ☕ **Buy Me a Coffee**  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/hamzag)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hamzag)
 
 ---
 
