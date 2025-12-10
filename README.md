@@ -63,10 +63,10 @@ Everything presented is strictly for **visual demonstration**.
 > Note: These links belong to the **original Get-Licensed application**, not this portfolio.
 
 **Google Play:**  
-https://play.google.com/store/apps/details?id=your-app-id
+[View it on Google Play](https://play.google.com/store/apps/details?id=com.getlicensed.protect.released&hl=en)
 
 **App Store:**  
-https://apps.apple.com/app/your-app-id
+[View it on App Store](https://apps.apple.com/pk/app/guardpass-by-get-licensed/id1562863073)
 
 ---
 
@@ -82,10 +82,10 @@ All rights to the original application belong to **Get-Licensed**.
 
 For professional work, collaborations, or UI development:
 
-**Email:** your-email-here  
-**LinkedIn:** your-link  
-**Fiverr:** your-link  
-**Upwork:** your-link  
+**Email:** hamzabilalgaya.bilal@gmail.com  
+**LinkedIn:** [View my LinkedIn Profile](https://www.linkedin.com/in/hamza-bilal-g-4259a8181)  
+**Fiverr:** [View my Fiverr profile](https://www.fiverr.com/s/EgZdxBK)
+**Upwork:** [View my Upwork profile](https://www.upwork.com/freelancers/~01474d05eaa4a6e38b)  
 
 ---
 
@@ -94,7 +94,7 @@ For professional work, collaborations, or UI development:
 If you like my work and want to support future UI components, tutorials, and open source:
 
 ### ☕ **Buy Me a Coffee**  
-[https://www.buymeacoffee.com/yourusername](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/hamzag)
 
 ---
 
