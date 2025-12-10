@@ -20,10 +20,10 @@ I worked on integrating and improving multiple modules within the Guard Pass app
 - 🎥 **Implemented video recording functionality**  
 - ▶️ **Integrated custom video player screens**  
 - 🛠️ **Fixed bugs, crashes, and UI inconsistencies left by previous developers**  
-- 🎨 **Enhanced layouts and created polished UI elements**  
+- 🎨 **Enhanced layouts and polished UI elements**  
 - 📱 **Improved screen transitions and modern UI styling**
 
-This portfolio highlights the **overall interface and system flow** I worked on, without exposing any proprietary code.
+This portfolio highlights the **overall interface and system flow** I worked on, without exposing proprietary code.
 
 ---
 
@@ -32,7 +32,7 @@ This portfolio highlights the **overall interface and system flow** I worked on,
 This repository contains **only the following items**:
 
 - ✔ **App Icon**  
-- ✔ **Two landscape showcase strips** (containing multiple app screens in one image)
+- ✔ **Two landscape showcase strips** (showing multiple screens)  
 - ❌ No source code  
 - ❌ No backend logic  
 - ❌ No proprietary files  
@@ -58,6 +58,18 @@ Everything presented is strictly for **visual demonstration**.
 
 ---
 
+## 📥 Download (Official Links)
+
+> Note: These links belong to the **original Get-Licensed application**, not this portfolio.
+
+**Google Play:**  
+https://play.google.com/store/apps/details?id=your-app-id
+
+**App Store:**  
+https://apps.apple.com/app/your-app-id
+
+---
+
 ## 📄 Disclaimer
 
 This repository is **not affiliated with, endorsed by, or officially representing Get-Licensed**.  
@@ -79,8 +91,10 @@ For professional work, collaborations, or UI development:
 
 ## ⭐ Support My Work
 
-If you find this portfolio useful:
+If you like my work and want to support future UI components, tutorials, and open source:
 
-- ⭐ Star the repo  
-- 🔁 Share with hiring managers  
-- 📬 Reach out for freelance or full-time mobile development
+### ☕ **Buy Me a Coffee**  
+[https://www.buymeacoffee.com/yourusername](https://www.buymeacoffee.com/yourusername)
+
+---
+
