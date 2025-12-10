@@ -44,17 +44,17 @@ Everything presented is strictly for **visual demonstration**.
 ## 🖼️ Visual Preview
 
 ### **App Icon**
-![App Icon](assets/app_icon.png)
+![App Icon](assets/app_icon.webp)
 
 ---
 
 ### **Showcase — Landscape Preview 1**
-![Landscape 1](assets/landscape_1.png)
+![Landscape 1](assets/1.png)
 
 ---
 
 ### **Showcase — Landscape Preview 2**
-![Landscape 2](assets/landscape_2.png)
+![Landscape 2](assets/2.png)
 
 ---
 
